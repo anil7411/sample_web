@@ -4,7 +4,7 @@
   <groupId>com.sbi</groupId>
   <artifactId>mobilebank</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0</version>
+  <version>1.0.0-SHAPSHOT</version>
   <name>mobilebank Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
